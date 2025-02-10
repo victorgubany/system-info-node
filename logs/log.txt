@@ -1,0 +1,60 @@
+Name: win32
+Architeture: x64
+Processor: AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx  
+Time in use: 35311.25s
+Memorie in Use: 10110640128
+
+Name: win32
+Architeture: x64
+Processor: AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx  
+Time in use: 35312.265s
+Memorie in Use: 10113622016
+
+Name: win32
+Architeture: x64
+Processor: AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx  
+Time in use: 35313.265s
+Memorie in Use: 10115260416
+
+Name: win32
+Architeture: x64
+Processor: AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx  
+Time in use: 35314.281s
+Memorie in Use: 10110803968
+
+Name: win32
+Architeture: x64
+Processor: AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx  
+Time in use: 35315.296s
+Memorie in Use: 10113622016
+
+Name: win32
+Architeture: x64
+Processor: AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx  
+Time in use: 35316.312s
+Memorie in Use: 10070609920
+
+Name: win32
+Architeture: x64
+Processor: AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx  
+Time in use: 35317.328s
+Memorie in Use: 10067337216
+
+Name: win32
+Architeture: x64
+Processor: AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx  
+Time in use: 35318.328s
+Memorie in Use: 10049736704
+
+Name: win32
+Architeture: x64
+Processor: AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx  
+Time in use: 35319.328s
+Memorie in Use: 10057064448
+
+Name: win32
+Architeture: x64
+Processor: AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx  
+Time in use: 35320.343s
+Memorie in Use: 10058432512
+
